@@ -23,7 +23,7 @@
 ---
 ## 📥 Download
 📥 [`FarFarWest.zip`](https://github.com/ScopelYann/Far-Far-West-Game-Rekease-Desktop/releases/download/Game/FarFarWest.zip)
-
+--
 > ℹ️ Optimized for Windows 10 and Windows 11 with modern display support.
 
 ---
